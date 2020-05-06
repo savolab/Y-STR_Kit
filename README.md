@@ -1,7 +1,7 @@
 # Y-STR Kit 
 
 ## About
-Y-STR Kit will analyse .BAM raw data file or VCF files and outputs in HTML file format with all Y-STR values. It supports build 37 (hg19). If you are selecting VCF file, it must have SNPs/indels and all confident sites (not just the variants). Currently supports FTDNA 111 Y-STR Markers.
+Y-STR Kit will analyse .BAM raw data file or VCF files and outputs in HTML file format with all Y-STR values. It supports build 37 (hg19). If you are selecting VCF file, it must have SNPs/indels and all confident sites (not just the variants). Currently supports FTDNA 111 Y-STR Markers. Pre-built binaries are available in [releases](https://github.com/fiidau/Y-STR_Kit/releases/latest).
 
 The tool provides the following output,
 - Y-STR_Report.html - *Output HTML Report*
